@@ -1,2 +1,2 @@
 # blog.comments
-blog.pediafy.com - comments | repository
+pediafy.com/blog - comments | repository
